@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:00:43.896068
-#+TITLE: 道藏缺經目錄
-#+PROPERTY: DZID  DZ1430
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—502 二卷 正一部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
